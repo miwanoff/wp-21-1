@@ -1,0 +1,490 @@
+# Translation of Plugins - Getwid &#8211; Gutenberg Blocks - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Getwid &#8211; Gutenberg Blocks - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-10 11:46:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Getwid &#8211; Gutenberg Blocks - Development (trunk)\n"
+
+#: includes/settings-page.php:253 includes/writing-settings.php:161
+msgid "Time until expiration of media data in minutes. Setting to 0 means no expiration."
+msgstr "Время до истечения срока годности медиаданных в минутах. Значение 0 означает отсутствие срока."
+
+#: includes/settings-page.php:244 includes/writing-settings.php:152
+msgid "Refresh Access Token"
+msgstr "Обновить токен доступа"
+
+#: includes/settings-page.php:181 includes/writing-settings.php:87
+msgid "Instagram Cache Timeout"
+msgstr "Тайм-аут кэша Instagram"
+
+#: includes/blocks/table.php:22 assets/js/editor.blocks.js:23
+msgid "Table"
+msgstr "Таблица"
+
+#: includes/blocks/anchor.php:20 assets/js/editor.blocks.js:23
+msgid "Anchor"
+msgstr "Якорь"
+
+#: includes/blocks/table-of-contents.php:31 assets/js/editor.blocks.js:23
+msgid "Table of Contents"
+msgstr "Оглавление"
+
+#: includes/getwid.php:224
+msgid "Write a Review"
+msgstr "Написать отзыв"
+
+#: includes/getwid.php:222
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/settings-page.php:301 includes/writing-settings.php:202
+msgid "Deselect All"
+msgstr "Снять выделение"
+
+#: includes/settings-page.php:299 includes/writing-settings.php:200
+msgid "Select All"
+msgstr "Выбрать все"
+
+#. translators: %1$s, %2$s is a number of total and disabled blocks
+#: includes/settings-page.php:294 includes/writing-settings.php:199
+msgid "Total: %1$s, Disabled: %2$s"
+msgstr "Итого: %1$s, отключено: %2$s"
+
+#: includes/settings-page.php:211 includes/writing-settings.php:117
+msgid "Disable Getwid Blocks"
+msgstr "Выключить блоки Getwid"
+
+#: includes/writing-settings.php:66 assets/js/editor.blocks.js:23
+msgid "Getwid Settings"
+msgstr "Настройки Getwid"
+
+#: includes/settings-page.php:161 assets/js/editor.blocks.js:23
+msgid "Animation"
+msgstr "Анимация"
+
+#: includes/settings-page.php:23 assets/js/editor.blocks.js:6
+msgid "General"
+msgstr "Основные"
+
+#: includes/blocks/template-library.php:19 assets/js/editor.blocks.js:23
+msgid "Template Library"
+msgstr "Библиотека шаблонов"
+
+#: includes/blocks/mailchimp.php:323
+msgid "An invalid Mailchimp list was provided."
+msgstr "Был предоставлен неверный список Mailchimp."
+
+#: includes/blocks/mailchimp.php:319
+msgid "Email is required."
+msgstr "Требуется адрес эл. почты."
+
+#: includes/blocks/content-timeline.php:23 assets/js/editor.blocks.js:23
+msgid "Content Timeline"
+msgstr "Содержимое хронологии"
+
+#: includes/blocks/countdown.php:163 assets/js/editor.blocks.js:23
+msgid "Countdown"
+msgstr "Счётчик"
+
+#: includes/blocks/video-popup.php:43 assets/js/editor.blocks.js:23
+msgid "Video Popup"
+msgstr "Всплывающее видео"
+
+#: includes/blocks/mailchimp.php:26 assets/js/editor.blocks.js:23
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: includes/blocks/mailchimp.php:379
+msgid "Thank you for joining our mailing list."
+msgstr "Спасибо за присоединение к нашему списку рассылки."
+
+#: includes/blocks/mailchimp.php:140
+msgid "Select at least one MailChim list."
+msgstr "Выберите хотя бы один Mailchimp список."
+
+#: includes/blocks/countdown.php:341
+msgid "Invalid date."
+msgstr "Неверная дата."
+
+#: includes/blocks/mailchimp.php:177
+#: includes/templates/mailchimp/field-last-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Last name"
+msgstr "Фамилия"
+
+#: includes/blocks/mailchimp.php:163
+#: includes/templates/mailchimp/field-first-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "First name"
+msgstr "Имя"
+
+#: includes/templates/mailchimp/mailchimp.php:27
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: includes/settings-page.php:205 includes/writing-settings.php:111
+#: assets/js/editor.blocks.js:23
+msgid "Mailchimp API Key"
+msgstr "Ключ Mailchimp API"
+
+#. Plugin URI of the plugin
+msgid "https://motopress.com/products/getwid/"
+msgstr "https://motopress.com/products/getwid/"
+
+#: includes/blocks/image-hotspot.php:83 assets/js/editor.blocks.js:23
+msgid "Image Hotspot"
+msgstr "Изображение с точками"
+
+#: includes/blocks-manager.php:49 includes/blocks-manager.php:92
+msgid "Getwid Post Blocks"
+msgstr "Блоки записей Getwid"
+
+#: includes/block-actions.php:8
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+#: includes/blocks/custom-post-type.php:262
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: includes/blocks/custom-post-type.php:282
+msgctxt "Previous post"
+msgid "<"
+msgstr "<"
+
+#: includes/blocks/custom-post-type.php:283
+msgctxt "Next post"
+msgid ">"
+msgstr ">"
+
+#: includes/blocks/template-parts/post-button.php:35
+#: includes/blocks/template-parts/post-link.php:29
+#: assets/js/editor.blocks.js:23
+msgid "Read More"
+msgstr "Читать далее"
+
+#: includes/rest-api.php:155
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: includes/post-template-part.php:26 includes/post-template-part.php:29
+msgid "New Template"
+msgstr "Новый шаблон"
+
+#: includes/post-template-part.php:27
+msgid "Add New Template"
+msgstr "Добавить новый шаблон"
+
+#: includes/post-template-part.php:28
+msgid "Edit Template"
+msgstr "Редактировать шаблон"
+
+#: includes/post-template-part.php:30
+msgid "View Template"
+msgstr "Просмотреть шаблон"
+
+#: includes/post-template-part.php:31
+msgid "Search Templates"
+msgstr "Поиск шаблонов"
+
+#: includes/post-template-part.php:32
+msgid "No templates found"
+msgstr "Шаблоны не найдены"
+
+#: includes/post-template-part.php:33
+msgid "No templates found in Trash"
+msgstr "Шаблоны в корзине не найдены"
+
+#: includes/rest-api.php:77
+msgid "Forbidden."
+msgstr "Запрещено."
+
+#: includes/rest-api.php:109
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: includes/rest-api.php:132
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: includes/blocks/contact-form.php:309
+msgid "The secret parameter is missing."
+msgstr "Отсутствует секретный параметр."
+
+#: includes/blocks/contact-form.php:315
+msgid "Please check the captcha."
+msgstr "Пожалуйста, проверьте Captcha."
+
+#: includes/blocks/contact-form.php:333
+msgid "The response is no longer valid: either is too old or has been used previously."
+msgstr "Ответ больше не действителен: он либо слишком старый, либо использовался ранее."
+
+#: includes/templates/contact-form/contact-form.php:25
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/templates/contact-form/field-textarea.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Message"
+msgstr "Сообщение"
+
+#: includes/blocks/contact-form.php:22 assets/js/editor.blocks.js:23
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: includes/blocks/post-carousel.php:184 assets/js/editor.blocks.js:23
+msgid "Post Carousel"
+msgstr "Карусель записей"
+
+#: includes/blocks/post-slider.php:172 assets/js/editor.blocks.js:23
+msgid "Post Slider"
+msgstr "Слайдер записей"
+
+#. translators: %s is a blogname
+#: includes/blocks/contact-form.php:239
+msgid "This e-mail was sent from a contact form on %s"
+msgstr "Это письмо было отправлено из контактной формы %s"
+
+#: includes/blocks/custom-post-type.php:121 assets/js/editor.blocks.js:23
+msgid "Custom Post Type"
+msgstr "Пользовательский тип записи"
+
+#: includes/post-template-part.php:24 assets/js/editor.blocks.js:6
+msgid "Post Template"
+msgstr "Шаблон записи"
+
+#: includes/settings-page.php:199 includes/writing-settings.php:105
+#: assets/js/editor.blocks.js:23
+msgid "Recaptcha Secret Key"
+msgstr "Cекретный ключ Recaptcha"
+
+#: includes/settings-page.php:193 includes/writing-settings.php:99
+#: assets/js/editor.blocks.js:23
+msgid "Recaptcha Site Key"
+msgstr "Ключ сайта Recaptcha"
+
+#: includes/blocks/contact-form.php:327
+msgid "The response parameter is invalid or malformed."
+msgstr "Параметр ответа недействителен или указан неправильно."
+
+#: includes/blocks/contact-form.php:267
+msgid "There was an error trying to send your message. Please try again later."
+msgstr "Произошла ошибка при попытке отправить сообщение. Повторите попытку позже."
+
+#: includes/blocks/price-list.php:23 assets/js/editor.blocks.js:23
+msgid "Price List"
+msgstr "Прайс-лист"
+
+#: includes/blocks/contact-form.php:303
+msgid "The request is invalid or malformed."
+msgstr "Запрос недействителен или указан неправильно."
+
+#: includes/blocks/contact-form.php:321
+msgid "The secret parameter is invalid or malformed."
+msgstr "Секретный параметр недействителен или указан неправильно."
+
+#: includes/blocks/contact-form.php:260
+msgid "Thank you for your message. It has been sent."
+msgstr "Спасибо за ваше сообщение. Оно отправлено."
+
+#: includes/templates/contact-form/field-email.php:8
+#: includes/templates/mailchimp/field-email.php:8 assets/js/editor.blocks.js:23
+msgid "Email address"
+msgstr "E-mail адрес"
+
+#: includes/blocks/instagram.php:148 includes/instagram-token-manager.php:84
+#: includes/rest-api.php:201 includes/rest-api.php:228
+msgid "Error in json_decode."
+msgstr "Ошибка в json_decode."
+
+#: includes/settings-page.php:114 includes/writing-settings.php:30
+msgid "Instagram: access denied."
+msgstr "Instagram: доступ запрещён."
+
+#: includes/blocks/counter.php:44 assets/js/editor.blocks.js:23
+msgid "Counter"
+msgstr "Счётчик"
+
+#: includes/blocks/instagram.php:52 assets/js/editor.blocks.js:23
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/blocks/circle-progress-bar.php:31 assets/js/editor.blocks.js:23
+msgid "Circular Progress Bar"
+msgstr "Круглый индикатор прогресса"
+
+#: includes/blocks/progress-bar.php:31 assets/js/editor.blocks.js:23
+msgid "Progress Bar"
+msgstr "Индикатор прогресса"
+
+#: includes/blocks/price-box.php:23 assets/js/editor.blocks.js:23
+msgid "Price Box"
+msgstr "Таблица цен"
+
+#: includes/settings-page.php:175 includes/writing-settings.php:81
+msgid "Instagram Access Token"
+msgstr "Электронный ключ доступа к Instagram"
+
+#. translators: %s is a link
+#: includes/blocks/instagram.php:103
+msgid "Instagram Access Token is not set. <a href=\"%s\">Connect Instagram Account</a>."
+msgstr "Электронный ключ доступа к Instagram не установлен. <a href=\"%s\"> Подключите учётную запись Instagram </a>."
+
+#: includes/settings-page.php:240 includes/writing-settings.php:147
+#: assets/js/editor.blocks.js:23
+msgid "Connect Instagram Account"
+msgstr "Подключите учётную запись Instagram"
+
+#: includes/settings-page.php:106 includes/writing-settings.php:22
+msgid "Instagram: access token updated."
+msgstr "Instagram: обновлён электронный ключ доступа."
+
+#: includes/templates/contact-form/field-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Name"
+msgstr "Имя"
+
+#: includes/blocks/accordion.php:28 assets/js/editor.blocks.js:23
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: includes/getwid.php:241 assets/js/editor.blocks.js:6
+#: assets/js/editor.blocks.js:23
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/blocks/icon.php:35 assets/js/editor.blocks.js:23
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/blocks/advanced-heading.php:22 assets/js/editor.blocks.js:23
+msgid "Advanced Heading"
+msgstr "Расширенный заголовок"
+
+#: includes/blocks/advanced-spacer.php:23 assets/js/editor.blocks.js:23
+msgid "Advanced Spacer"
+msgstr "Расширенный интервал"
+
+#: includes/blocks/banner.php:22 assets/js/editor.blocks.js:23
+msgid "Banner"
+msgstr "Баннер"
+
+#: includes/blocks/button-group.php:23 assets/js/editor.blocks.js:23
+msgid "Button Group"
+msgstr "Группа кнопок"
+
+#: includes/blocks/icon-box.php:34 assets/js/editor.blocks.js:23
+msgid "Icon Box"
+msgstr "Иконка с текстом"
+
+#: includes/blocks/image-box.php:35 assets/js/editor.blocks.js:23
+msgid "Image Box"
+msgstr "Картинка с текстом"
+
+#: includes/blocks/images-slider.php:51 assets/js/editor.blocks.js:23
+msgid "Image Slider"
+msgstr "Слайдер изображений"
+
+#: includes/blocks/google-map.php:47 assets/js/editor.blocks.js:23
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/blocks/media-text-slider.php:58 assets/js/editor.blocks.js:23
+msgid "Media & Text Slider"
+msgstr "Слайдер медиа и текста"
+
+#: includes/blocks/person.php:23 assets/js/editor.blocks.js:23
+msgid "Person"
+msgstr "Карточка человека"
+
+#: includes/blocks/recent-posts.php:94 assets/js/editor.blocks.js:23
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: includes/blocks/section.php:75 assets/js/editor.blocks.js:6
+#: assets/js/editor.blocks.js:23
+msgid "Section"
+msgstr "Секция"
+
+#: includes/blocks/social-links.php:27 assets/js/editor.blocks.js:23
+msgid "Social Links"
+msgstr "Иконки социальных сетей"
+
+#: includes/blocks/testimonial.php:23 assets/js/editor.blocks.js:23
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: includes/blocks/images-stack.php:23 assets/js/editor.blocks.js:23
+msgid "Image Stack Gallery"
+msgstr "Галерея наложенных изображений"
+
+#: includes/blocks/toggle.php:28 assets/js/editor.blocks.js:23
+msgid "Toggle"
+msgstr "Переключатель"
+
+#: includes/blocks/tabs.php:27 assets/js/editor.blocks.js:23
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: includes/blocks-manager.php:37 includes/blocks-manager.php:80
+msgid "Getwid Blocks"
+msgstr "Блоки Getwid"
+
+#: includes/scripts-manager.php:70
+msgid "Full Size"
+msgstr "Полный размер"
+
+#. translators: %d is a comments count
+#. translators: %d is a comments count
+#: includes/templates/recent-posts/post.php:90
+#: includes/templates/template-parts/post-comments.php:12
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: includes/templates/recent-posts/post.php:92
+#: includes/templates/template-parts/post-comments.php:14
+msgid "No comments"
+msgstr "Комментариев нет"
+
+#. Plugin Name of the plugin
+msgid "Getwid"
+msgstr "Getwid"
+
+#: includes/settings-page.php:155 includes/writing-settings.php:75
+msgid "Section Content Width"
+msgstr "Ширина содержимого секции"
+
+#: includes/settings-page.php:228 includes/writing-settings.php:134
+msgctxt "pixels"
+msgid "px"
+msgstr "px"
+
+#: includes/settings-page.php:229 includes/writing-settings.php:135
+msgid "Default width of content area in the Section block. Leave empty to use the width set in your theme."
+msgstr "Ширина по умолчанию области содержимого в блоке Секция. Оставьте пустым, чтобы использовать ширину, установленную в вашей теме."
+
+#. Description of the plugin
+msgid "Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor."
+msgstr "Дополнительные Gutenberg блоки для создания привлекательных веб-сайтов в WordPress редакторе блоков."
+
+#. Author of the plugin
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#. Author URI of the plugin
+msgid "https://motopress.com/"
+msgstr "https://motopress.com/"
+
+#: includes/settings-page.php:187 includes/writing-settings.php:93
+#: assets/js/editor.blocks.js:23
+msgid "Google Maps API Key"
+msgstr "API ключ для Google Maps"
