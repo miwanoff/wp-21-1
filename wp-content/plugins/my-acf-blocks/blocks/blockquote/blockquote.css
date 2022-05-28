@@ -1,0 +1,18 @@
+.mab-blockquote {
+  padding: 50px 30px;
+  text-align: center;
+  border: solid;
+}
+
+.mab-blockquote-text {
+  display: block;
+  padding-bottom: 30px;
+  font-size: 26px;
+  font-family: serif;
+}
+
+.mab-blockquote-author {
+  color: #777;
+  font-family: sans-serif;
+  font-size: 18px;
+}
